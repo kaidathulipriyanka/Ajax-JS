@@ -2,30 +2,30 @@
     "Employee": [
       {
         "id": 1,
-        "firstName": "Karan Eng",
-        "lastName": "Depale",
+        "firstName": "Priyanka",
+        "lastName": "Kaidhathuli",
         "age": 23,
         "position": "Software Engineer",
         "department": "Engineering",
-        "salary": 5000
+        "salary": 30000
       },
       {
         "id": 2,
-        "firstName": "Manoj",
-        "lastName": "MAsre",
+        "firstName": "Prasanya",
+        "lastName": "Naravula",
         "age": 23,
-        "position": "Advocate",
-        "department": "Civil",
-        "salary": 5000
+        "position": "Hardware",
+        "department": "ECE",
+        "salary": 500000
       },
       {
         "id": 3,
-        "firstName": "Atul",
-        "lastName": "Bachhane",
+        "firstName": "Sai",
+        "lastName": "kiran",
         "age": 23,
         "position": "Software Engineer",
         "department": "Engineering",
-        "salary": 5000
+        "salary": 50
       }
     ]
   }
